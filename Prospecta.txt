@@ -1,0 +1,12 @@
+ainitom.das@masaischool.com
+shivika.rana@prospecta.com
+
+
+
+3) the key thing when i create an api are----
+		a. Validation
+		b. autharization
+		c. Autharizetion
+		d. Authentication
+		e. Responses.
+		f. End to end Enctyption;
